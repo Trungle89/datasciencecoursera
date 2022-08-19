@@ -1,0 +1,13 @@
+---
+title: "HelloWorld"
+author: "Trung"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a rmarkdown file
+The file is used as assigmnment for the Data Tools'box course 
